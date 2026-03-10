@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2025-06-01-talk-Hunan_Normal_University
 venue: "The First Digital Humanities Interdisciplinary Research Youth Forum"
-date: 2025-06
+date: 2025-06-01
 location: "Changsha, Hunan, PRC"
 ---
 
