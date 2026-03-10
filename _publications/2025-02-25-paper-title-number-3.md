@@ -2,7 +2,7 @@
 title: "The Female Universe in Science Fiction:A Study of Social Network in The Three Body Problem(科幻中的女性宇宙：《三体》的社会网络研究)"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-02-25-paper-title-number-3
+permalink: /publication/2025-02-25-paper-Social_Network_of_Three_Body.md
 excerpt: 'This paper employs social network analysis to reveal female characters centrality in The Three-Body Problem. Contrasting Ye Wenjie and Cheng Xins choices, it argues these roles subvert patriarchal structures, acquiring discourse power and critiquing gender politics through their narratives.'
 date: 2025-2-25
 venue: 'Journal of North University of China(Social Science Edition)'
