@@ -24,7 +24,7 @@ You can find my CV here: [中文个人简历](../assets/中文简历_0303.pdf) /
 
 ## Paper is on the way
 
-My paper ["“Production-Living-Ecological Space” and Digital Humanities: A Visualization Study of Zheng Xiaoqiong's Poetry"]() is on the way.
+My paper ["Research on Zheng Xiaoqiong’s Poetry from the Perspective of “Production-Living-Ecological Space”: A Digital Humanities Visualization Analysis"]() is formally accepted by a certain academic journal.
 
 My paper ["The Rise, Transformation, and Reconstruction of the Discourse of “World Literature”in Chinese Intellectual Circles (1979–2025)"]() is under review by a A&HCI journal.
 
