@@ -8,4 +8,4 @@ date: 2025-06
 location: "Changsha, Hunan, PRC"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This paper analyzes Zheng Xiaoqiong’s poetry through Production-Living-Ecological Space theory and digital humanities tools (QGIS, Python), revealing triadic structural tensions in industrialization,including capital’s disciplinary power, marginalized resistance ethics, and ecological utopianism.
