@@ -6,7 +6,7 @@ permalink: /publication/2025-02-25-paper-title-number-3
 excerpt: 'This paper employs social network analysis to reveal female characters centrality in The Three-Body Problem. Contrasting Ye Wenjie and Cheng Xins choices, it argues these roles subvert patriarchal structures, acquiring discourse power and critiquing gender politics through their narratives.'
 date: 2025-2-25
 venue: 'Journal of North University of China(Social Science Edition)'
-paperurl: 'http://edisonchen3.github.io/files/paper3.pdf'
+paperurl: 'http://ronanchen3.github.io/files/Social_Network_of_Three_Body.pdf'
 citation: 'Chen,Y.N. & Jiang,T.(2025). &quot;The Female Universe in Science Fiction : A Study of Social Network in The Three Body Problem.&quot; <i>Journal of North University of China(Social Science Edition)</i>. 42(03):172-177.'
 ---
 <!--
