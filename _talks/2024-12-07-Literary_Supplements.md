@@ -1,9 +1,8 @@
 ---
-title: "Leftist Cultural Production in the Anti-Japanese War: Practices and Paradoxes of the Xinyuandi Literary Supplement (1935-1937)    
-         左翼文艺与抗战动员——《新园地》副刊的文体实践与历史价值(1935-1937)"
+title: "Leftist Cultural Production in the Anti-Japanese War: Practices and Paradoxes of the Xinyuandi Literary Supplement (1935-1937)    左翼文艺与抗战动员——《新园地》副刊的文体实践与历史价值(1935-1937)"
 collection: talks
 type: "Talk"
-permalink: /talks/2024-12-07-talk-1
+permalink: /talks/2024-12-07-talk-Literary_Supplements
 venue: "Literary Supplements and Modern Chinese Literature Studies Conference Forum"
 date: 2024-12-07
 location: "Shantou, Guangdong, PRC"
