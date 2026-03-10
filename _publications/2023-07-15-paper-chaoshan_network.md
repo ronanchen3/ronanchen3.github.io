@@ -2,7 +2,7 @@
 title: "On Chaoshan Online Literature: Its Present State, Bottleneck and Direction(潮汕网络文学创作的现状、瓶颈与方向)"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-07-15-paper-title-number-1
+permalink: /publication/2023-07-15-paper-chaoshan_network
 excerpt: 'This paper examines Chaoshan online literature’s development within the Guangdong-Hong Kong-Macao Greater Bay Area, noting emerging writers and works. It addresses scholarly gaps, advances cultural progress, and enriches GBA-wide online literary studies.'
 date: 2023-07-15
 venue: 'Journal of Shantou University(Humanities & Social Sciences Edition)'
