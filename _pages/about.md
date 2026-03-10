@@ -18,7 +18,7 @@ I expect to graduate in June 2026. I am currently actively seeking a PhD positio
 
 You can find my CV here: [中文个人简历](../assets/个人简历.pdf) / [Yaonan's Curriculum Vitae](../assets/CV_Chen.pdf)
 
-[Email](mailto:kurobayiunam@163.com) / [Github](https://github.com/edisonchen3) / [Wechat](../images/wechat.jpg) / [Orcid](https://orcid.org/0009-0009-8727-2757) / [Linkedin](https://www.linkedin.com/in/yaonanchen) / [ResearchGate](https://www.researchgate.net/profile/Yaonan-Chen?ev=hdr_xprf) / [Academia](https://stu-cn.academia.edu/YaonanChen) 
+[Email](mailto:yiunamlebron@gmail.com) / [Github](https://github.com/edisonchen3) / [Wechat](../images/wechat.jpg) / [Orcid](https://orcid.org/0009-0009-8727-2757) / [Linkedin](https://www.linkedin.com/in/yaonanchen) / [ResearchGate](https://www.researchgate.net/profile/Yaonan-Chen?ev=hdr_xprf) / [Academia](https://stu-cn.academia.edu/YaonanChen) 
 
 # News
 
@@ -26,7 +26,16 @@ You can find my CV here: [中文个人简历](../assets/个人简历.pdf) / [Yao
 
 My paper ["“Production-Living-Ecological Space” and Digital Humanities: A Visualization Study of Zheng Xiaoqiong's Poetry"]() is on the way.
 
-My paper ["Leftist Cultural Production in the Anti-Japanese War: Practices and Paradoxes of the Xinyuandi Literary Supplement (1935-1937)"]() is on the way.
+My paper ["The Rise, Transformation, and Reconstruction of the Discourse of “World Literature”in Chinese Intellectual Circles (1979–2025)"]() is under review by a A&HCI journal.
+
+## Receive the award of 2025 National Graduate Scholarship, October 10, 2025
+
+Due to my excellent overall performance during postgraduate study, I was awarded the National Graduate Scholarship by the Ministry of Education in PRC, with an amount of RMB ¥20,000.
+
+## Receive the award of Graduate Academic Excellence First-Class Scholarship of Shantou University, September 24, 2025
+
+Due to my excellent overall performance in 2024-2025, I was awarded the first-class academic excellence scholarship by our
+university, with an amount of RMB ¥12,000.
 
 ## Receive the award of Graduate Academic Excellence First-Class Scholarship of Shantou University, September 24, 2024
 
@@ -35,8 +44,7 @@ university, with an amount of RMB ¥12,000.
 
 ## Receive the award of Graduate Academic Excellence Second-Class Scholarship of Shantou University, September 24, 2023
 
-Due to my excellent overall performance during graduate study, I was awarded the first-class academic excellence scholarship by our
-university, with an amount of RMB ¥7,000.
+Due to my excellent overall performance before enrollment., I was awarded the freshman scholarship by our university, with an amount of RMB ¥7,000.
 
 
 
