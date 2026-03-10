@@ -1,4 +1,5 @@
---
+---
+
 title: "Leftist Literature and Arts and War Mobilization of Resistance against Japan: Literary Practices and Historical Significance of the Supplement Xinyuandi of Nanjing's Xinmin Daily (1935-1937)(左翼文艺与抗战动员————南京《新民报》副刊《新园地》的文体实践与历史价值)（1935-1937）"
 collection: publications
 category: manuscripts
