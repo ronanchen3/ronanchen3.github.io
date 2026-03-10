@@ -1,13 +1,13 @@
 ---
-title: "Leftist Literature and Arts and War Mobilization of Resistance against Japan: Literary Practices and Historical Significance of the Supplement Xinyuandi of Nanjing's Xinmin Daily (1935-1937)(左翼文艺与抗战动员————南京《新民报》副刊《新园地》的文体实践与历史价值)（1935-1937）"
+title: "Leftist Literature and Arts and War Mobilization of Resistance against Japan: Literary Practices and Historical Significance of the Supplement Xinyuandi of Nanjing's Xinmin Daily (1935-1937)（左翼文艺与抗战动员————南京《新民报》副刊《新园地》的文体实践与历史价值 1935-1937）"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-01-25-paper-Leftist Literature and Arts
+permalink: /publication/2026-01-25-paper-Leftist_Literature
 excerpt: "Xin Yuandi, a supplement of the Nanjing Xinmin Daily (1935–1937), functioned as a cultural front established by Left-wing forces under CCP leadership within KMT-controlled territory. Through political essays, literary works, and artistic criticism, it mobilized public opinion, fostered national identity, and built a cultural united front in support of the War of Resistance. Beyond its propaganda role, the supplement offers a revealing case study of how Left-wing forces, under intense political pressure, successfully captured cultural hegemony and facilitated the transition from proletarian literature to resistance literature."
 date: 2026-01-25
 venue: 'Journal of Jinling Institute of Technology(Social Sciences Edition)'
 paperurl: 'http://ronanchen3.github.io/files/Leftist_Literature.pdf'
-citation: 'Yaonan Chen. (2025). &quot;Leftist Literature and Arts and War Mobilization of Resistance against Japan: Literary Practices and Historical Significance of the Supplement Xinyuandi of Nanjing's Xinmin Daily (1935-1937).&quot; <i>Journal of Jinling Institute of Technology(Social Sciences Edition)</i>. 39(04):85-92.'
+citation: 'Yaonan Chen. (2025). &quot;Leftist Literature and Arts and War Mobilization of Resistance against Japan: Literary Practices and Historical Significance of the Supplement Xinyuandi of Nanjing Xinmin Daily (1935-1937).&quot; <i>Journal of Jinling Institute of Technology(Social Sciences Edition)</i>. 39(04):85-92.'
 ---
 
 <!--
