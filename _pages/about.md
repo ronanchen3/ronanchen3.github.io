@@ -16,7 +16,7 @@ It is my great pleasure to be supervised by [Dr. Tao Jiang](https://www.wxy.stu.
 
 I expect to graduate in June 2026. I am currently actively seeking a PhD position in Fall 2026.
 
-You can find my CV here: [中文个人简历](../assets/个人简历.pdf) / [Yaonan's Curriculum Vitae](../assets/CV_Chen.pdf)
+You can find my CV here: [中文个人简历](../assets/中文简历_0303.pdf) / [Yaonan's Curriculum Vitae](../assets/英文简历_0303.pdf)
 
 [Email](mailto:yiunamlebron@gmail.com) / [Github](https://github.com/edisonchen3) / [Wechat](../images/wechat.jpg) / [Orcid](https://orcid.org/0009-0009-8727-2757) / [Linkedin](https://www.linkedin.com/in/yaonanchen) / [ResearchGate](https://www.researchgate.net/profile/Yaonan-Chen?ev=hdr_xprf) / [Academia](https://stu-cn.academia.edu/YaonanChen) 
 
