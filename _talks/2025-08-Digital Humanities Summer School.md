@@ -10,4 +10,4 @@ location: "Zhuhai, Guangdong, PRC"
 
 [More information here](https://www.sohu.com/a/921577174_121124334)
 
-This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+The project involved learning how to call, debug, and design a large language model. Building upon the Qwen3-8B platform, the system learned from over 5 million words of structured science fiction data, ultimately running a large-scale science fiction writing assistance model and producing a report titled "Illusion Workshop: A Large Language Model for Science Fiction Writing Assistance—Based on Qwen3-8B".
