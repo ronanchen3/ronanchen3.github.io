@@ -13,9 +13,9 @@ title                    : "About me"
 title_separator          : "-"
 name                     : &name "Yaonan Chen（陈耀南）"
 description              : &description "Personal Description"
-url                      : "https://edisonchen3.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : "https://ronanchen3.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "edisonchen3/edisonchen3.github.io"
+repository               : "ronanchen3/ronanchen3.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   location         : "Shantou City"
   employer         : 
   uri              : # URL
-  email            : "kurobayiunam@163.com" 
+  email            : "yiunamlebron@gmail.com" 
 
   # Academic websites
   academia         : "https://stu-cn.academia.edu/YaonanChen"
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "edisonchen3"
+  github           : "ronanchen3"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
