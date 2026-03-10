@@ -2,7 +2,7 @@
 title: "Regional Cultural Spirit and Guangdong Chaoshan Network Literature Creation(地域文化精神与潮汕网络文学创作)"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-08-15-paper-Regional_Cultural_Spirit
+permalink: /publications/2024-08-15-paper-Regional_Cultural_Spirit
 excerpt: 'This paper examines how regionalism shapes Chaoshan online literature, revealing embedded cultural spirits that reflect collective unconsciousness and psychological inheritance, aligning with the CPC’s cultural confidence and narrative goals. '
 date: 2024-08-15
 venue: 'Journal of Tongren University'
