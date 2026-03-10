@@ -2,9 +2,9 @@
 title: "Illusion Workshop: A Large Language Model to Aid Science Fiction Writing—Based on Qwen3-8B"
 collection: talks
 type: "Conference Presentation"
-permalink: /talks/2025-08-Digital Humanities Summer School
+permalink: /talks/2025-08-04-Digital_Humanities_Summer_School
 venue: "BNBU-UM-NNU Third Corpus and Digital Humanities Summer School"
-date: 2025-08
+date: 2025-08-04
 location: "Zhuhai, Guangdong, PRC"
 ---
 
