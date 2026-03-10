@@ -153,7 +153,7 @@ Scholarship
 * 2024 Shantou University Graduate Academic Excellence Scholarship
   * First prize ￥12000 RMB
 * 2023 Shantou University Graduate Academic Excellence Scholarship
-  * Second prize ￥12000 RMB
+  * Second prize ￥7000 RMB
 
 Hobbies
 ======
