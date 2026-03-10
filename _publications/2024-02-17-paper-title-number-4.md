@@ -3,7 +3,7 @@ title: "Leftist Literature and Arts and War Mobilization of Resistance against J
 collection: publications
 category: journal articles
 permalink: /publication/2026-01-25-paper-Leftist Literature and Arts
-excerpt: 'Xin Yuandi, a supplement of the Nanjing Xinmin Daily (1935–1937), functioned as a cultural front established by Left-wing forces under CCP leadership within KMT-controlled territory. Through political essays, literary works, and artistic criticism, it mobilized public opinion, fostered national identity, and built a cultural united front in support of the War of Resistance. Beyond its propaganda role, the supplement offers a revealing case study of how Left-wing forces, under intense political pressure, successfully captured cultural hegemony and facilitated the transition from proletarian literature to resistance literature.'
+excerpt: "Xin Yuandi, a supplement of the Nanjing Xinmin Daily (1935–1937), functioned as a cultural front established by Left-wing forces under CCP leadership within KMT-controlled territory. Through political essays, literary works, and artistic criticism, it mobilized public opinion, fostered national identity, and built a cultural united front in support of the War of Resistance. Beyond its propaganda role, the supplement offers a revealing case study of how Left-wing forces, under intense political pressure, successfully captured cultural hegemony and facilitated the transition from proletarian literature to resistance literature."
 date: 2026-01-25
 venue: 'Journal of Jinling Institute of Technology(Social Sciences Edition)'
 paperurl: 'http://ronanchen3.github.io/files/Leftist_Literature.pdf'
