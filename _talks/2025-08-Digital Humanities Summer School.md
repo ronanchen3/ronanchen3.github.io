@@ -1,9 +1,9 @@
 ---
-title: "BNBU-UM-NNU Third Corpus and Digital Humanities Summer School"
+title: "Illusion Workshop: A Large Language Model to Aid Science Fiction Writing—Based on Qwen3-8B"
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/2025-08-Digital Humanities Summer School
-venue: "Beijing Normal-Hong Kong Baptist University"
+venue: "BNBU-UM-NNU Third Corpus and Digital Humanities Summer School"
 date: 2025-08
 location: "Zhuhai, Guangdong, PRC"
 ---
