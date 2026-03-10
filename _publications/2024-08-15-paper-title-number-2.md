@@ -6,7 +6,7 @@ permalink: /publication/2024-08-15-paper-title-number-2
 excerpt: 'This paper examines how regionalism shapes Chaoshan online literature, revealing embedded cultural spirits that reflect collective unconsciousness and psychological inheritance, aligning with the CPC’s cultural confidence and narrative goals. '
 date: 2024-08-15
 venue: 'Journal of Tongren University'
-paperurl: 'http://edisonchen3.github.io/files/paper2.pdf'
+paperurl: 'http://ronanchen3.github.io/files/Regional Cultural Spirit.pdf'
 citation: 'Jiang,T. & Chen,Y.N. (2024). &quot;Regional Cultural Spirit and Guangdong Chaoshan Network Literature Creation.&quot; <i>Journal of Tongren University</i>. 26(04):121-128.'
 ---
 
